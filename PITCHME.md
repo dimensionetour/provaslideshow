@@ -1,0 +1,2 @@
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854665/Salamostra/Ubik_Walnut.jpg&size=auto 100%&color=#ffffff
+---?image=https://res.cloudinary.com/dimensione3-srl/image/upload/v1600854234/Salamostra/Dolmix_Light.jpg&size=auto 100%

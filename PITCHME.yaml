@@ -1,0 +1,14 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+theme : simple
+theme-override : assets/css/PITCHME.css
+# theme-override : assets/css/PITCHME.codemax.css
+highlight : atom-one-light
+#logo : http://res.cloudinary.com/dimensione3-srl/image/upload/...
+transition : slide
+published : true
+#footnote : "<a style='text-decoration:none; color: white;' href='https://www...'>...</a>"
